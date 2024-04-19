@@ -1,0 +1,59 @@
+R-Programming Notes:
+
+The R Project for Statistical Computing:
+
+  R is a programming language and environment for statistical computing and graphics.
+It provides a wide variety of statistical (linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, etc.) and graphical techniques.
+R is open-source and freely available under the GNU General Public License.
+
+Why R:
+  
+  R is widely used in academia and industry for statistical analysis, data visualization, and data science.
+It has a large and active user community, which contributes to its extensive collection of packages and resources.
+R provides powerful tools for data manipulation, exploration, and modeling.
+It offers a wide range of graphical capabilities for creating publication-quality plots and visualizations.
+
+Introduction & Installation of R:
+
+  R can be downloaded and installed from the Comprehensive R Archive Network (CRAN) website.
+Installation packages are available for various operating systems, including Windows, macOS, and Linux.
+The installation process typically involves downloading the installer package and following the installation instructions provided on the CRAN website.
+
+R Basics:
+
+  R is an interpreted language, meaning that code is executed line by line.
+It has a command-line interface where users can enter commands interactively or execute scripts stored in text files.
+R uses a syntax similar to other programming languages but with its own unique conventions and functions.
+
+Finding Help:
+
+  R provides extensive documentation and help resources to assist users.
+The help() function can be used to access documentation for specific functions or topics.
+The ? operator followed by a function or topic name can also be used to access help directly from the command line.
+
+Code Editors for R:
+  
+  Various code editors and integrated development environments (IDEs) are available for writing and executing R code.
+Popular choices include RStudio, Visual Studio Code with R extensions, and Jupyter Notebooks with R kernels.
+
+Exploring R GUI:
+
+  R comes with a built-in graphical user interface (GUI) that provides basic functionality for interacting with R.
+The R GUI includes menus, toolbars, and windows for viewing plots, data objects, and help documentation.
+While the R GUI is functional, many users prefer using more feature-rich IDEs like RStudio for their R programming needs.
+
+Exploring RStudio:
+
+  RStudio is a powerful integrated development environment (IDE) for R programming.
+It provides a user-friendly interface with features such as code editing, debugging, workspace management, and integrated documentation.
+RStudio also includes tools for version control, package management, and project organization, making it a comprehensive environment for R development.
+
+Basic Mathematical & Arithmetic Operations in R:
+
+  R supports all standard arithmetic operations, including addition (+), subtraction (-), multiplication (*), division (/), and exponentiation (^).
+Parentheses can be used to control the order of operations, similar to standard mathematical notation.
+R also provides built-in functions for more complex mathematical operations, such as square roots (sqrt()), absolute values (abs()), and trigonometric functions (sin(), cos(), tan()).
+These notes provide an overview of the topics covered in Session 19 of R-Programming. They introduce the R project, discuss the reasons for using R, cover the installation process, explore basic R operations, and introduce popular code editors and IDEs for R development.
+
+
+
