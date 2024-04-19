@@ -1,0 +1,134 @@
+
+Python Programming Mock Test 2
+dhruvarakesh20@gmail.com Switch account
+ 
+* Indicates required question
+Email
+*
+Roll no-
+*
+Name-
+*
+1) Which of the following is an invalid statement?
+1 point
+a b c = 1000 2000 3000
+a,b,c = 1000, 2000, 3000
+abc = 1,000,000
+a_b_c = 1,000,000
+2) What is the output of print 0.1 + 0.2 == 0.3?
+1 point
+True
+False
+Machine dependent
+Error
+3)  What is the output of "hello +1+2+3 ?
+1 point
+hello123
+hello
+Error
+hello6
+4) What is the output of the following?print('abcd'.translate({'a': '1', 'b': '2', 'c': '3', 'd': '4'}))
+1 point
+abcd
+1234
+error
+none of the mentioned
+5) In the Python Programming Language, syntax error is detected by ______ at _________.
+1 point
+Interpreter / Compile time
+Run time / Interpreter
+Interpreter / Run time
+Compile time / Run time
+6) Python supports the creation of anonymous functions at runtime, using a construct called __________
+1 point
+pi
+anonymous
+lambda
+none of the mentioned
+7)  Which one of the following has the highest precedence in the expression?
+1 point
+Exponential
+Addition
+Multiplication
+Parentheses
+8) What is returned by math.modf(1.0)?
+1 point
+(0.0, 1.0)
+(1.0, 0.0)
+(0.5, 1)
+(0.5, 1.0)
+9)  Which of the following is a Python tuple?
+1 point
+{1, 2, 3}
+{}
+[1, 2, 3]
+(1, 2, 3)
+10)  Which of the following is not a type of inheritance?
+1 point
+Double-level
+Multi-level
+Single-level
+Multiple
+11) Methods of a class that provide access to private members of the class are called as ______ and ______
+1 point
+getters/setters
+__repr__/__str__
+user-defined functions/in-built functions
+__init__/__del__
+12) Which of the following is not a standard exception in Python?
+1 point
+NameError
+IOError
+AssignmentError
+ValueError
+13) Which of the following expressions results in an error?
+1 point
+float(‘10’)
+int(‘10’)
+float(’10.8’)
+int(’10.8’)
+14)  What happens if the base condition isn’t defined in recursive programs?
+1 point
+Program gets into an infinite loop
+Program runs once
+Program runs n number of times where n is the argument given to the function
+An exception is thrown
+15) What does built-in function type do in context of classes?
+1 point
+Determines the object name of any value
+Determines the class name of any value
+Determines class description of any value
+Determines the file name of any value
+16) What is the value of this expression?2**2**3**1
+1 point
+256
+128
+64
+12
+17) What error will occur when you execute the Given code:    MANGO = APPLE  
+1 point
+NameError
+SyntaxError
+TypeError
+ValueError
+18)  In the following options which are python libraries which are used for data analysis and scientific computations
+1 point
+Numpy
+Scipy
+Pandas
+All the above
+19)  For tuples and list which is correct?
+1 point
+List and tuples both are mutable.
+List is mutable whereas tuples are immutable.
+List and tuples both are immutable
+List is immutable whereas tuples are mutable
+20) How to compare two operands in Python and check for equality? Which operator is to be used?
+1 point
+=
+&
+$
+==
+Never submit passwords through Google Forms.
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms

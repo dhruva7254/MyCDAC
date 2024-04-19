@@ -1,0 +1,7 @@
+print(10/2)
+print(10//2)
+print(101%2)
+print(divmod(101,2))
+print(2**4)
+print(abs(-4))
+print(8>>1)

@@ -1,0 +1,182 @@
+
+Python Programming Test2
+dhruvarakesh20@gmail.com Switch account
+ 
+* Indicates required question
+Email
+*
+Name
+*
+Roll Number
+*
+Which of these about a frozenset is not true?
+1 point
+a) Mutable data type
+b) Allows duplicate values
+c) Data type with unordered values
+d) Immutable data type
+What is the syntax of the following Python code?
+1 point
+Captionless Image
+a) {5,6,7}
+b) frozenset({5,6,7})
+c) Error, not possible to convert set into frozenset
+d) Syntax error
+Is the following Python code valid?
+1 point
+Captionless Image
+a) Yes, now a is {5,5,6,7}
+b) No, frozen set is immutable
+c) No, invalid syntax for add method
+d) Yes, now a is {5,6,7}
+Set members must not be hashable.
+1 point
+a) True
+b) False
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) Error, no method called update for set data type
+b) {1, 2, 3, 4, 5}
+c) Error, list can’t be added to set
+d) Error, duplicate item present in list
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) {2,3}
+b) Error, duplicate item present in list
+c) Error, no method called intersection_update for set data type
+d) {1,4,5}
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) {1,2,3}
+b) Error, copying of sets isn’t allowed
+c) {1,2}
+d) Error, invalid syntax for remove
+ What will be the output of the following Python code?
+1 point
+Captionless Image
+a) {1,2,3}
+b) Error, invalid syntax for add
+c) {1,2,3,4}
+d) Error, copying of sets isn’t allowed
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) 0
+b) {1,2,3,4}
+c) {1,2,3}
+d) Nothing is printed
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) 5
+b) 23
+c) 18
+d) Invalid syntax for sum method, too many arguments
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) {2,4,6}
+b) Error, set comprehensions aren’t allowed
+c) {8, 2, 10, 4, 6}
+d) {8,10}
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) 8
+b) Error, unsupported operand ‘+’ for sets
+c) 6
+d) Nothing is displayed
+Is the following Python code valid?
+1 point
+Captionless Image
+a) False
+b) True
+c) Syntax error for issuperset() method
+d) Error, no method called issuperset() exists
+Which of the following is a Python tuple?
+1 point
+a) [1, 2, 3]
+b) (1, 2, 3)
+c) {1, 2, 3}
+d) {}
+Suppose t = (1, 2, 4, 3), which of the following is incorrect?
+1 point
+a) print(t[3])
+b) t[3] = 45
+c) print(max(t))
+d) print(len(t))
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) (1, 2)
+b) (1, 2, 4)
+c) (2, 4)
+d) (2, 4, 3)
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) (1, 2)
+b) (1, 2, 4)
+c) (2, 4)
+d) (2, 4, 3)
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) [2, 3, 9]
+b) [1, 2, 4, 3, 8, 9]
+c) [1, 4, 8]
+d) (1, 4, 8)
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) 40
+b) 45
+c) “john”
+d) “peter”
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) True
+b) False
+c) Error
+d) None
+What will be the output of the following Python code?
+1 point
+Captionless Image
+a) 30
+b) 24
+c) 33
+d) 12
+ Which of the following statements create a dictionary?
+1 point
+a) d = {}
+b) d = {“john”:40, “peter”:45}
+c) d = {40:”john”, 45:”peter”}
+d) All of the mentioned
+What will be the output of the following Python code snippet? d = {"john":40, "peter":45}
+1 point
+a) “john”, 40, 45, and “peter”
+b) “john” and “peter”
+c) 40 and 45
+d) d = (40:”john”, 45:”peter”)
+What will be the output of the following Python code snippet?
+1 point
+Captionless Image
+a) True
+b) False
+c) None
+d) Error
+What will be the output of the following Python code snippet?
+1 point
+Captionless Image
+a) True
+b) False
+c) None
+d) Error
+d2 = {"john":466, "peter":45}
+Never submit passwords through Google Forms.
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms
