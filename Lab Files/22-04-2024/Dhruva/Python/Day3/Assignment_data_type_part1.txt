@@ -1,0 +1,193 @@
+# Perform following assignments
+# Write your conclusions in comments
+# NOTE :
+# Every question and bit is explaining a concept, so think and learn!
+
+Function Usage & Programming Assignments:
+
+Q1. What will be output of following
+
+a. type(0)
+b. type(0.0)
+c. type('A')
+d. type(print) -> remember print is function
+e. type(3+3j)
+f. type(True)
+
+NOTE: Similarly check for few other values and clarify the concept 
+
+Q2. What will be output of following
+
+a. isinstance(10,int)
+b. isinstance(10,float)
+c. isinstance(1,bool)
+d. isinstance(0,bool)
+e. isinstance(78.8,int)
+f. isinstance(78.8,float)
+g. isinstance(78.8,complex)
+h. isinstance(True,bool)
+
+NOTE: Similarly check for few other values and clarify the concept 
+
+
+Q3. WAP to take following from user, 
+roll no : should be int : store in a variable
+percentage marks : should be float: store in a variable
+Any complex number : should be a complex number : store in a variable
+name of student: should be a string : store in a variable
+
+Print values of all four variables
+
+Q4. WAP to convert given integer to binary, hex and octal format
+
+Q5. WAP to convert given binary string to an integer.
+NOTE: Binary string should start with '0b' always
+
+Q6. WAP to convert given octal string to an integer.
+NOTE: Binary string should start with '0o' always
+
+
+Q7. WAP to convert given hex string to an integer.
+NOTE: Binary string should start with '0x' always
+
+Q8. WAP to take an int from user. Print number of 1's and 0's in binary format of given number.
+NOTE: '0b' is suffix in binary string. It should not be included in calculation.
+
+Q9. Write a menu driven program.
+Ask the user which input needs to be converted 
+1. binary 2. Octal 3. Hex
+Then convert given string to integer using int() function
+
+Q10. Manually tell output (Truth value) of following expression, then verify it in python
+You can get truth value of an expression by passing it to bool()
+Ex. bool(100+56*3) returns True
+
+a. '' (empty string)
+b. 10-10
+c. 19.99-19.9
+d. [] (empty list)
+e. range(0)
+f. None
+g. 0+0.1j
+h. -10
+i. -9.6
+j. 'ABC'+'KL'
+k. '-'
+l. 'False'
+m. False
+n. 'None'
+
+
+Q11. Find the size of x when x is given following values
+Hint : Size of object can be found by sys.getsizeof() function
+a. x=0 
+Check what is size of x
+b. x=1 
+Check what is size of x
+c. x=2 ** 20
+Check what is size of x
+d. x=2 ** 32
+Check what is size of x
+e. x=2 ** 60 
+Check what is size of x
+
+Q12. Find output of following
+
+a. 10 + True
+b. int(False)
+c. bin(False)
+d. hex(True)
+e. 1578.67 + False
+f. int(5/4)
+g. int(9/10)
+h. int(-89/10)
+i. float(True)
+j. float(6*7)
+k. float(1e3)
+l. float(1e323)
+
+
+Q13. Solve following
+
+a. Print value of int.bit_length(10)
+Print value of bin(10)
+Explain output of both functions 
+
+b. Take a number from user. Find its square root. And check if square root is an integer or not.
+(Hint: Use built-in function from float data type functions for last part)
+
+c. Take hexadecimal string from user and convert it to float
+Ex. User input string: '0x1.67e30'
+o/p 1.4058074951171875
+
+Q14. WAP to convert given floating point number into fraction i..e numerator and denominator, and print them.
+
+
+Q15. WAP to create simple calculator in python.
+Take two numbers from user and give following options
+a. add b. subtract c. divide d. multiply e. integer division f. mod operation 
+g. check if both numbers are same  h. power operation i. square root of both numbers  j. log of both numbers
+k. gcd (find the  the greatest common divisor of the two integers) l. lcm (least common multiple)
+(Hint: Use inbuilt functions)
+
+Q16. WAP to check given integer is a perfect square or not. 
+Don't use built in function
+
+
+Advanced Assignments:
+
+Q. What is output of following? Explain why such output?
+
+a. bool(hex(0))
+b. bool(bin(0))
+c. bool(0)
+
+Q. What is output of following ? Explain
+
+a. 
+if( 10 == 10.00 ):
+  print("Equal")
+else:
+  print("not Equal")
+
+b. 
+x=10
+y=10.00
+if( x == y ):
+  print("Equal")
+else:
+  print("not Equal")
+
+c.
+x=10
+y=10.00
+if( x is y ):
+  print("Same")
+else:
+  print("Not Same")
+
+d.
+x=10
+y=10
+if( x is y ):
+  print("Same")
+else:
+  print("Not Same")
+
+
+Q. What is output of following
+a. x = 23+4j
+print(x)
+b. x = 23+4i
+c. x = 23+4k
+d. x=complex('23 + 4j')
+e. x=complex('23+4j')
+print(x)
+
+NOTE: Read documentation & Explain why different outputs are coming 
+
+https://docs.python.org/3/library/functions.html#complex 
+
+Q. Read about difference between byte order types Big-Endian and Little-Endian
+
+https://en.wikipedia.org/wiki/Endianness

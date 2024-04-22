@@ -1,0 +1,43 @@
+Create Employee class to have employee details
+    empid int
+    name str
+    designation str
+    salary int  --> make it private (hidden)
+    project_ids_assigned (set)
+    skills list of str
+    company name : 
+         shared in all employees
+
+Functionalities (methods):
+        display_projetids()
+        display_identity()
+        check_relevant_skill()
+        
+        display_company_details():
+            shared in all (class method)
+
+Init should be parameterised to take all
+neccessary details and initialize the object
+
+Create three employees with different details 
+Give them skills
+
+Print identity of all of them (one by one)
+using instance method
+
+Print project ids of all of them (one by one)
+using instance method
+
+Print employee ids and names who have skill "Python"
+
+Print company details
+
+
+
+
+
+
+
+
+
+

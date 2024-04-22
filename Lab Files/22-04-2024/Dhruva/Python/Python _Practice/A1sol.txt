@@ -1,0 +1,32 @@
+car
+list1 = [5, 10, 15, 20, 25, 50, 20]
+index = list1.index(20)
+list1[index] = 200
+print(list1)
+
+--------------
+
+list1 = [5, 20, 15, 20, 25, 50, 20]
+list1 = [x for x in list1 if x != 20]
+print(list1)
+
+--------------
+
+def generate_odd_numbers(num):
+    odd_numbers = set()
+    num_str = str(num)
+    for i in range(len(num_str)):
+        for j in range(i+1, len(num_str)+1):
+            sub_num = int(num_str[i:j])
+            if sub_num % 2 != 0:
+                odd_numbers.add(sub_num)
+    return sorted(list(odd_numbers))
+
+num = int(input("Enter a number: "))
+odd_numbers = generate_odd_numbers(num)
+print(odd_numbers)
+
+------------------------
+
+------------------------------
+
